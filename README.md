@@ -41,9 +41,24 @@
 <h2> 🔗 Connect with Me </h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/kanujan-subakaran-156339292"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="30px"></a>
-  <a href="mailto:kanujansk@gmail.com"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.svg" width="30px"></a>
-  <a href="https://github.com/KanujanS"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="30px"></a>
+  <a href="https://www.linkedin.com/in/kanujan-subakaran-156339292" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" />
+  </a>
+  <a href="mailto:kanujansk@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30px" style="border-radius: 5px;" />
+  </a>
+  <a href="https://github.com/KanujanS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" />
+  </a>
+  <a href="https://www.instagram.com/kanujan_sk?igsh=a2xoMWhjMHJrbm5v&utm_source=qr" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30px" style="border-radius: 7px;" />
+  </a>
+  <a href="https://www.tiktok.com/@kanujan_sk?_t=ZS-8wkgLdGyM57&_r=1" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/69/TikTok_logo.svg" width="30px" />
+  </a>
+  <a href="https://www.facebook.com/share/1AyAERov9f/?mibextid=wwXIfr" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Facebook-icon-1.png" width="30px" />
+  </a>
 </p>
 
 <h2> 📈 GitHub Stats </h2>
@@ -57,8 +72,6 @@
     <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanujanS&layout=compact&theme=tokyonight"></td>
   </tr>
 </table>
-
-<p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></p>
 
 <hr>
 
