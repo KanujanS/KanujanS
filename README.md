@@ -54,7 +54,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30px" style="border-radius: 7px;" />
   </a>
   <a href="https://www.tiktok.com/@kanujan_sk?_t=ZS-8wkgLdGyM57&_r=1" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/6/69/TikTok_logo.svg" width="30px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/TikTok_logo.svg" width="30px" />
   </a>
   <a href="https://www.facebook.com/share/1AyAERov9f/?mibextid=wwXIfr" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Facebook-icon-1.png" width="30px" />
