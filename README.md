@@ -12,11 +12,11 @@
 <img align="right" width="50%" alt="GIF" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 
 <ul>
-  <li>🎓 Software Engineering Undergraduate at Sabaragamuwa University of Sri Lanka</li>
-  <li>🧑‍💻 I build full-stack web apps using the MERN stack</li>
-  <li>🌱 Currently learning machine learning and advanced backend concepts</li>
-  <li>💬 Ask me about React, Node.js, MongoDB, Express, Flutter, Firebase</li>
-  <li>🌟 Fun fact: I enjoy clean UI and optimizing user experience</li>
+  <li>Software Engineering Undergraduate at Sabaragamuwa University of Sri Lanka</li>
+  <li>I build full-stack web apps using the MERN stack</li>
+  <li>Currently learning machine learning and advanced backend concepts</li>
+  <li>Ask me about React, Node.js, MongoDB, Express, Flutter, Firebase</li>
+  <li>Fun fact: I enjoy clean UI and optimizing user experience</li>
 </ul>
 
 <h2> 🛠️ Tech Stack </h2>
@@ -25,12 +25,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" style="background-color: white; padding: 5px; border-radius: 5px;"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="40"/>
 </p>
 
 <h2> 🔗 Connect with Me </h2>
