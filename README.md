@@ -16,7 +16,7 @@
 <h2> 🚀 About Me </h2>
 
 <div align="left">
-  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px">
+  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250px">
   <ul>
     <li>🎓 Software Engineering Undergraduate at Sabaragamuwa University of Sri Lanka</li>
     <li>🧑‍💻 I build full-stack web apps using the MERN stack</li>
