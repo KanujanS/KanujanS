@@ -65,10 +65,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30px" style="border-radius: 5px;" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/KanujanS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/kanujan_sk" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30px" />
   </a>
