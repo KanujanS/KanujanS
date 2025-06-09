@@ -1,9 +1,6 @@
 <h1 align="center"> Hello Fellow &lt;/Developers&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visitors-∞-blueviolet?style=for-the-badge&logo=github" alt="visitor badge">
-</p>
-<p align="center">
   <a href="https://github.com/KanujanS">
     <img src="https://img.shields.io/github/followers/KanujanS?label=Follow&style=social" alt="GitHub followers">
   </a>
@@ -45,6 +42,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="40"/>
 </p>
 
+<h2> 📈 GitHub Stats </h2>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=KanujanS&show_icons=true&theme=tokyonight" alt="GitHub stats"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=KanujanS&theme=tokyonight" alt="GitHub streak"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanujanS&layout=compact&theme=tokyonight"></td>
+  </tr>
+</table>
+
 <h2> 🔗 Connect with Me </h2>
 
 <p>
@@ -73,17 +82,6 @@
   </a>
 </p>
 
-<h2> 📈 GitHub Stats </h2>
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=KanujanS&show_icons=true&theme=tokyonight" alt="GitHub stats"></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=KanujanS&theme=tokyonight" alt="GitHub streak"></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanujanS&layout=compact&theme=tokyonight"></td>
-  </tr>
-</table>
 
 <hr>
 
