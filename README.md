@@ -93,24 +93,37 @@
 <h2> 🔗 Connect with Me </h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/kanujan-subakaran-156339292" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" />
+  <a href="https://www.linkedin.com/in/kanujan-subakaran-156339292" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25px" style="vertical-align: middle;" />
+    <span style="margin-left: 8px;">Kanujan Subakaran</span>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:kanujansk@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30px" style="border-radius: 5px;" />
+</p>
+
+<p>
+  <a href="mailto:kanujansk@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="25px" style="border-radius: 5px; vertical-align: middle;" />
+    <span style="margin-left: 8px;">kanujansk@gmail.com</span>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/kanujan_sk" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30px" />
+</p>
+
+<p>
+  <a href="https://www.instagram.com/kanujan_sk" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="25px" style="vertical-align: middle;" />
+    <span style="margin-left: 8px;">Kanujan_sk</span>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@kanujan_sk" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" width="30px" />
+</p>
+
+<p>
+  <a href="https://www.tiktok.com/@kanujan_sk" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" width="25px" style="vertical-align: middle;" />
+    <span style="margin-left: 8px;">Kanujan_SK</span>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/share/1AyAERov9f/?mibextid=wwXIfr" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="30px" />
+</p>
+
+<p>
+  <a href="https://www.facebook.com/share/1AyAERov9f/?mibextid=wwXIfr" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="25px" style="vertical-align: middle;" />
+    <span style="margin-left: 8px;">Kanujan_SK</span>
   </a>
 </p>
 
