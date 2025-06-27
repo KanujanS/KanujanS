@@ -75,7 +75,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KanujanS&show_icons=true&theme=tokyonight" alt="KanujanS GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=KanujanS&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="KanujanS GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=KanujanS&theme=tokyonight&hide_border=false" alt="KanujanS GitHub Streak" />
@@ -83,7 +83,9 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanujanS&layout=compact&theme=tokyonight" alt="KanujanS Top Languages" />
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanujanS&layout=compact&theme=tokyonight" alt="KanujanS Top Languages" />
+      </div>
     </td>
   </tr>
 </table>
