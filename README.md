@@ -18,7 +18,7 @@
     <li>🎓 Software Engineering Undergraduate at Sabaragamuwa University of Sri Lanka</li>
     <li>🧑‍💻 I build full-stack web apps using the MERN stack</li>
     <li>📚 Currently learning machine learning and advanced backend concepts</li>
-    <li>💬 Ask me about React, Node.js, MongoDB, Express, Flutter, Firebase</li>
+    <li>💬 Ask me about React, Node.js, MongoDB, Express</li>
     <li>🎨 Fun fact: I enjoy clean UI and optimizing user experience</li>
   </ul>
 </div>
